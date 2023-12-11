@@ -16,3 +16,9 @@ for (int i = 0; i < numTabs; i++)
 	if (i < 2)
 		ImGui::SameLine();
 }
+
+// how to use 
+// как использовать
+if (currentTab == 0) { }
+else if (currentTab == 1) { }
+else if (currentTab == 2) { }
